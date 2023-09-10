@@ -1,0 +1,2219 @@
+fileFormatVersion: 2
+guid: 39dc978917167fc49bdebbc171d7f4f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 557
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1cab0461eab4f49a8196cc499bcba5
+      internalID: 734056135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 559
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6916ade8e87fd594e84e74a59717242c
+      internalID: 1376829119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_3
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 560
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34883a9b95d8c49b0843326eb8b724
+      internalID: -1270448247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 559
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a5ac3db57571f498c0dd722a4cb71d
+      internalID: -616035840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 560
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50178788e74423f4fb546b42233f6921
+      internalID: 411767086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 560
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec388f52286e377469da644590973fb3
+      internalID: -706798781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 560
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff0815a1930a654aa4eff6e3953a768
+      internalID: 1460214344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 549
+        width: 160
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b17760b8888ba4fa86d0f0e5ca3d89
+      internalID: -1091379954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 471
+        width: 200
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bf2315bc49b2c41a8a5d32e6de8285
+      internalID: 1208159119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 556
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9fd47829c54645b44f537a0aa3d1b
+      internalID: -1815299005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 556
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4664705c805147adfaab93a2a816e
+      internalID: -1006492415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 557
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4983398509cd35b48ba6400843f7f73e
+      internalID: -1282691400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 556
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581154a17994cf447859f3173e3d448a
+      internalID: 1494600166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 502
+        width: 206
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294b3690f2498549998fff3babaaa89
+      internalID: -1767965024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_27
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 516
+        width: 160
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698377cc24d8e4643aaad1be7ea851df
+      internalID: 2023844644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 488
+        width: 202
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e4ddb88179494c80752640b8a3a77
+      internalID: 1740576628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_29
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 481
+        width: 160
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477fe485baf958b4db70909737137750
+      internalID: 1076736341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 455
+        width: 192
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796b365e2b6d4e49856a1e91aca010a
+      internalID: 30721607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 468
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e239bdab3612444a7d5cc96c098222
+      internalID: -1897131217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_32
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 449
+        width: 159
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e4b27982ad68b45aeecb65814afc0e
+      internalID: -1892456124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 363
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9aabd0b8db9dc41a4c49fff5685588
+      internalID: -222616341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 364
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a053c568e37f2342bad77c3be2f2836
+      internalID: 870750326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 430
+        width: 205
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d420f5cf62791c34fb2ebd3777f65a1b
+      internalID: 1648431227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_37
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 407
+        width: 147
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb5200826dc25419c61ebebc3136d5
+      internalID: -561554910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1292122d42bc44daaae8a5345843fe
+      internalID: -729938902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 377
+        width: 124
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16fc2302fed46744b6a6a18ca6b0922
+      internalID: 61877109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 265
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208713a3832bfc142bc8ee197baf54da
+      internalID: -2061207585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 268
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93569d66654394343945b1a6de888e67
+      internalID: -1630945191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 257
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2980f0976f6b409756588c1fd0264
+      internalID: 363919100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 343
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b287ee7496cd7c4eaac1362933e6220
+      internalID: 1606768078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_45
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 343
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18252fc5803efbd4ab40739a608f3b79
+      internalID: 1254844089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 343
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3751f3082470d74a8bb63007a2d91ff
+      internalID: 770729643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_48
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 347
+        width: 94
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890888d0a123bf949acf37016820c4f1
+      internalID: 1935650161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 269
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac7c930d23cd84ba9453ebdf051446
+      internalID: 234150248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_50
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 303
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc07f9c0ea12bf4bbe715b11d6d429c
+      internalID: 666729278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 302
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359803e12d0f314a87a10bd0eecd17f
+      internalID: 372264562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 303
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843061015cb4d954f93016bced523d6a
+      internalID: 1268510784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_54
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 314
+        width: 78
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7fa3971a9e2fd469e0a79af1e8ab6e
+      internalID: 698791853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_55
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 293
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eecfff93903b74ea03b6a047ef4a84
+      internalID: 1351086910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 267
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f649eeb3bdef4bbcbff4c535f2b67
+      internalID: -1446958997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_58
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 213
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b3f1599ae3d54d98f539c379f658b
+      internalID: 1950089963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_59
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 157
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec62010d4861943b33cf6c7adf0e4e
+      internalID: 1104277628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_63
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 245
+        width: 63
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bf572bbd42b284bad57ba853bb5818
+      internalID: -815868343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 241
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf4e0f254583e44b9ca9775a4394d8
+      internalID: 19144797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_65
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 231
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c654a5a3e706e43846f0ff815ab317
+      internalID: 240989166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 231
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f7d370356f514fbff05a92b74d2df
+      internalID: -1016509590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 230
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd4f497b96d2b499bf280aeedf984c
+      internalID: 1844118270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_68
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 230
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e8a6fa442e9b54c88866b9401bd01b
+      internalID: -1029400040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 231
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68602393bb976ea44a02f65a921082e0
+      internalID: 46440056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 231
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5d85fa287c4e4788ced3397e60612
+      internalID: -51415021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 224
+        width: 141
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4357621fc60047a298f88f2c6e793
+      internalID: 243479201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_80
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 223
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3347eeabdf9ee84fab281b7e9399398
+      internalID: -244276881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f2ea417f2ef7944bbdf7241ea67aa2
+      internalID: -1461057991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 161
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2fd5dc5b49164d9b23f3814e93afe
+      internalID: 224785157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_83
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 206
+        width: 144
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef70303a4e37a468e412e6a852a242
+      internalID: -462303757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 181
+        width: 142
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251afac1326f8144af03886fe1e9204
+      internalID: 1335520739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_120
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 163
+        width: 140
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc143ba2a9fed4899ea3f594ffeba8
+      internalID: -692925037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 143
+        width: 141
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfabd89f3ee014e41887f388ba7b565b
+      internalID: -564426159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_173
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 202
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122b650401affc44b9df56d6c71adba
+      internalID: 1227420938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_174
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 124
+        width: 144
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e236451b88ae4a91b5aadf432f2a0
+      internalID: -49890656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_179
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 129
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca18985b20a2841a70ee19be0a91e9
+      internalID: -1459949313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_187
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 144
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8630e262d89ef934c9eeb4e03dfffc26
+      internalID: -1025219798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_226
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 89
+        width: 133
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3552a39da111542964460a7a018290
+      internalID: 1802739836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_229
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 93
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab3b721f63372478bfde8a4d6007c5
+      internalID: 2074881675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_337
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 57
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3875d7ca686b8b44bec4507d89f96e2
+      internalID: 1457778698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_351
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfa2df49e1c38488f8a89404b58bdb
+      internalID: -953199434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_388
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b100b73a769ede4ab55c79534e2dc43
+      internalID: 1297748952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_426
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 8
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bbd8e957e1e4b4da80d0a0b92fd0a4
+      internalID: 1384550981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_101
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 181
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56171e9844462c7479cc6f62f0fb50c1
+      internalID: 1986114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_102
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 182
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512fdb25b36743149b0b515f2e513214
+      internalID: -14908099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_103
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 181
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec92e92d4124a04ba1ea03d2a4458d1
+      internalID: 1854481083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_104
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 181
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f496ba77542194fb9e6929d2cc79f1
+      internalID: 1656415715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_105
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 182
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a7d3c007968b40a77170e00efab69
+      internalID: -1813787170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 184
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4c1ccc60aa1045b8340365b95ed95
+      internalID: 1643371367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_107
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 185
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e065fc896a571429fd6a138c4fc58f
+      internalID: -831945799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_73
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 185
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ddd7664e0ba4a449d746e7673dd70d
+      internalID: 515169480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_109
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 188
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7af37d32248124ba0719d80ca9702f
+      internalID: 1563911489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_110
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 189
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8fc81cb319e44b96362f8e7265850
+      internalID: -1234745551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_0: -1456960999
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_1: 734056135
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_10: -1815299005
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_100: 317158188
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_101: 1986114865
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_102: -14908099
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_103: 1854481083
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_104: 1656415715
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_105: -1813787170
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_106: 1643371367
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_107: -831945799
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_108: 1335520739
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_109: 1563911489
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_11: -1006492415
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_110: -1234745551
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_111: 466385064
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_112: -442396989
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_113: 1500038292
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_114: -1624596201
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_115: -955483791
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_116: -1876697587
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_117: -1836302802
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_118: -833678288
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_119: -1369150575
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_120: -692925037
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_121: -232988810
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_122: -879409519
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_123: 791286775
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_124: -182522285
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_125: -493400682
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_126: -564426159
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_127: 1739788997
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_128: 701170147
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_129: -1519713112
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_13: -1282691400
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_130: -1548325850
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_131: 1350151208
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_132: -965045801
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_133: -1127520647
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_134: 1103543448
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_135: 1118665514
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_136: 450091340
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_137: -1786112200
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_138: -1902517665
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_139: -1900724560
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_14: 1494600166
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_140: 1108112184
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_141: 906701328
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_142: 1366002979
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_143: -1131256701
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_144: -1182394056
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_145: 63294638
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_146: -1213659077
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_147: -463982422
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_148: -1914559726
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_149: -1357561273
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_15: 358758242
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_150: -669384571
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_151: 395484060
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_152: -1386953319
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_153: 926528301
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_154: 1060483094
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_155: 2019741692
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_156: 87876657
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_157: -76688910
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_158: -107556780
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_159: -1755360871
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_16: -1862621981
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_160: 1107994115
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_161: -1287760604
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_162: 2057448367
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_163: 1198230760
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_164: -202609057
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_165: 372806054
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_166: 1514204644
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_167: -1284708926
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_168: 193498148
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_169: -1582871229
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_17: -495471644
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_170: 1802276174
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_171: -446088046
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_172: -2070642883
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_173: 1227420938
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_174: -49890656
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_175: 689546400
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_176: -739457562
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_177: -1397361844
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_178: -1672470170
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_179: -1459949313
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_18: 1571090446
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_180: -882340408
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_181: 2009988348
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_182: -1459081414
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_183: -1250094389
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_184: -365366200
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_185: -2119525038
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_186: -813313534
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_187: -1025219798
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_188: 1078623382
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_189: 206665120
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_19: 1878432812
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_190: 1929604847
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_191: 1248582325
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_192: -1307763832
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_193: 536633450
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_194: -1737678518
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_195: -648827792
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_196: 1060014610
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_197: 1008314802
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_198: 473161366
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_199: -752553788
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_2: 1376829119
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_20: 1538523775
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_200: 1550457564
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_201: 836085996
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_202: -145013991
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_203: 531579448
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_204: 24008931
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_205: -1107045457
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_206: -121393861
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_207: 1946082464
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_208: -191851235
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_209: -523852684
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_21: 1002644482
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_210: 1616670552
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_211: -519045103
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_212: -38855381
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_213: 247444429
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_214: -468310735
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_215: 185054982
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_216: 1059367638
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_217: -667003231
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_218: -1879645141
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_219: 1157089958
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_22: -1270694050
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_220: -1471297626
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_221: -1595543743
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_222: 224822844
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_223: 2052979712
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_224: -248727030
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_225: 106905242
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_226: 1802739836
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_227: -257989336
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_228: 1373204589
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_229: 2074881675
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_23: 1787906572
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_230: 606547549
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_231: -1468589349
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_232: -990977191
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_233: -55802264
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_234: -330739278
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_235: 1751690908
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_236: -802130003
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_237: -1580523109
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_238: 2137024249
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_239: 409559581
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_24: 184715866
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_240: 1225422983
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_241: 911571560
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_242: -1785134243
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_243: 171746830
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_244: 77020068
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_245: -1445072124
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_246: -2127303922
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_247: -27255608
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_248: 1668592174
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_249: 1198341517
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_25: -2111780121
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_250: -274504111
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_251: 1468315225
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_252: 1554711586
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_253: -1157875558
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_254: 1520911940
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_255: 282629062
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_256: -1886416060
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_257: 7407423
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_258: -489687727
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_259: -869312389
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_26: -1767965024
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_260: -1169632809
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_261: -1933792832
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_262: -1330237674
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_263: 1131668616
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_264: -844699960
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_265: 1227407768
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_266: 1939520761
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_267: -1532198643
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_268: -1733931806
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_269: -792541729
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_27: 2023844644
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_270: -2116030583
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_271: 1949828227
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_272: -114690736
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_273: 1645159928
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_274: -1728564545
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_275: 1818691545
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_276: -1963020864
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_277: -1871712530
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_278: 1138046174
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_279: -774426108
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_28: 1740576628
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_280: 314536787
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_281: 783566420
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_282: -964471270
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_283: 1377529511
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_284: 1829378413
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_285: -422147103
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_286: 29663180
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_287: 1604659793
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_288: 1366283180
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_289: -660910960
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_29: 1076736341
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_290: -614591177
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_291: -1603616545
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_292: 1935182051
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_293: 1071323384
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_294: -456623690
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_295: 1026673211
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_296: -495996187
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_297: 541626396
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_298: 1728832841
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_299: 63737626
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_3: -1270448247
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_30: 30721607
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_300: 1895867457
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_301: 521422516
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_302: -2004400686
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_303: -1704853086
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_304: 395203453
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_305: -1334219491
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_306: -1942204329
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_307: 273516460
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_308: 1304797743
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_309: -1098064402
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_31: -1897131217
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_310: 809589444
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_311: 375773551
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_312: 956735409
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_313: -2109762636
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_314: 721148224
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_315: -1728509711
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_316: -1465088172
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_317: 1702013886
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_318: 959186271
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_319: 1974877523
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_32: -1892456124
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_320: -600810619
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_321: -1096994594
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_322: -1566702557
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_323: 1890087203
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_324: -253314302
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_325: 230500540
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_326: 2009973975
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_327: 1535544536
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_328: -1416159541
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_329: 166203594
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_33: -222616341
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_330: 754260469
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_331: 532848517
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_332: -1513433188
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_333: 174607193
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_334: 895428885
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_335: -120435094
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_336: -510992938
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_337: 1457778698
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_338: 2077389383
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_339: 551286201
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_34: 870750326
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_340: 952628594
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_341: 1551948953
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_342: 24916148
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_343: -1873440091
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_344: -453955555
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_345: -1093726964
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_346: -1031176827
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_347: -2073497386
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_348: 208078630
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_349: 807636429
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_35: 1648431227
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_350: -1044796769
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_351: -953199434
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_352: -1467418325
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_353: 1596907900
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_354: 976646115
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_355: -1243614562
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_356: -1358964588
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_357: 1785094804
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_358: -1101326511
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_359: -958896100
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_36: -829118399
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_360: -638796289
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_361: -1933000645
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_362: -749951884
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_363: 1416302868
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_364: 1744914731
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_365: -1878816445
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_366: -881733041
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_367: -1761192703
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_368: -1753382439
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_369: 1211148338
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_37: -561554910
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_370: -1310843529
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_371: -581015544
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_372: 1558446689
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_373: 2144035120
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_374: 1933209321
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_375: -1107791306
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_376: -165812210
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_377: 1745398217
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_378: -1189965648
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_379: -1239930782
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_38: -729938902
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_380: 131796246
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_381: 1962613383
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_382: 1649217603
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_383: 860188361
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_384: 1333353916
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_385: 317793451
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_386: -163074441
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_387: 2112394088
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_388: 1297748952
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_389: -468551318
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_39: 2093458325
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_390: 416764713
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_391: 1438072385
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_392: -709425080
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_393: -1905146315
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_394: 1118628933
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_395: -1406509242
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_396: -1881711080
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_397: -138970231
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_398: -1961516576
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_399: -145003073
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_4: -616035840
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_40: 61877109
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_400: 1231439747
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_401: 474979849
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_402: -970896925
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_403: 1089370236
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_404: -259456141
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_405: -2016629092
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_406: -17658491
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_407: 1627284985
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_408: 845559928
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_409: 257821001
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_41: -2061207585
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_410: 1690677643
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_411: 245071238
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_412: -1690342618
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_413: 1762453910
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_414: -1252353491
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_415: 1148862441
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_416: -24645827
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_417: 1981143059
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_418: -342450474
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_419: 690654463
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_42: -1630945191
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_420: -2038415762
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_421: 1720701728
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_422: -1456306915
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_423: -776735295
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_424: 134290439
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_425: 1723511438
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_426: 1384550981
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_427: -1179540609
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_428: 236629971
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_429: -1444521407
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_43: 363919100
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_430: -901039857
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_44: 1606768078
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_45: 1254844089
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_46: 770729643
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_47: -1892509420
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_48: 1935650161
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_49: 234150248
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_5: 411767086
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_50: 666729278
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_51: 372264562
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_52: 1268510784
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_54: 698791853
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_55: 1351086910
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_56: 802426758
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_57: -1446958997
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_58: 1950089963
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_59: 1104277628
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_6: -706798781
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_63: -815868343
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_64: 19144797
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_65: 240989166
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_66: -1016509590
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_67: 1844118270
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_68: -1029400040
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_69: 46440056
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_7: 1460214344
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_70: -51415021
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_73: 515169480
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_76: -772252124
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_77: 243479201
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_78: -332426288
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_79: 1453597471
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_8: -1091379954
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_80: -244276881
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_81: -1461057991
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_82: 224785157
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_83: -462303757
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_84: -139982866
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_85: 1724287349
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_86: -1540088544
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_87: 1731262658
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_88: 1187924565
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_89: 2133471265
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_9: 1208159119
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_90: -1463268151
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_91: -334547328
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_92: -1365012107
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_93: 1298047169
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_94: -753347580
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_95: 183951660
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_96: -94773094
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_97: 1661807635
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_98: -1034331398
+      Neo Geo NGCD - Metal Slug - Hammer-Yang Fishing Boat_99: 848768344
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
