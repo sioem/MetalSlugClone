@@ -1,0 +1,2445 @@
+fileFormatVersion: 2
+guid: 1a17ee8bbc158b146944f5cb3d64d173
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco-pistol-sit_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 658
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de3f24486771b41863d83ceb48f49d
+      internalID: -60566296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 658
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd969b5729a085c45a7680e87ab32fbe
+      internalID: -2055844827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 658
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd053de0efe84ae4e90daaa1cc3c0f57
+      internalID: 1732231053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 627
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62123802ac70248823ea5d288ac6e3
+      internalID: 2010698779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 627
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69434b50521a7043ae4f2ba733e01f6
+      internalID: 1665776036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 627
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f408b0a655377f74ba29934ebfbf0bc5
+      internalID: -284351350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 627
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f7e5a69f194194d95fa3c7b6b6bac0
+      internalID: -1037183913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 595
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb4c06777370a645a6adb57409361d2
+      internalID: -1010611923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 595
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06edc32a193d0ce47b8eb050592b112a
+      internalID: -1973813097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 595
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6a7ff3462caaf4b99ee61beec251a8
+      internalID: -1783377330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 595
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e519caadbf05d45979bc7dbb1b2835
+      internalID: 539891657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 595
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30279a85bf6e40a4f99a5cfb1e72db09
+      internalID: -1176164874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 595
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77daf0186f46a614895a16e8c0ed40e4
+      internalID: -1672601151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 595
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5adff15808a7a64ba4df6aac37c0916
+      internalID: -1630711217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 561
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38bba4c5ed4aab49869bce418ac190c
+      internalID: 1270565549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 524
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee98ff8183cc4c4d92ba529e19de454
+      internalID: -1452034371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 524
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558dfc186b144034e8c81155dca9b1e7
+      internalID: -1806052868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 524
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb17bc51c415114caec0801825e0463
+      internalID: 1894926604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 524
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039b48495733cdb4d9b5731a1862225a
+      internalID: 392278061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 524
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47677cafaa2dd7e4dac22f8f29ebd323
+      internalID: 2034268813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 524
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfc260edcc29a846ac89dfb9fbc64b1
+      internalID: 55312984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 524
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d2c133cd6028449017d1e8f1eeef5
+      internalID: -1519118257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_24
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 524
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20329d6fd25d426419505f8fbd74b6fd
+      internalID: -472408887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 524
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6507a16db8c6e4c4d97bbd407a14eeda
+      internalID: 1157469691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 524
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b18a5e2b7a8b748920795f4fe24e04
+      internalID: -1430638266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d2291b5d241b4e92ab3cd25000130
+      internalID: -612498579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 489
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bae9249da737f548a8cc2ef07678314
+      internalID: 1367911879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 489
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb36a609a4755f8479acaff04b5897ca
+      internalID: -279084454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 489
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87804a89e9b6c04a8a4e261b8f6cb87
+      internalID: 1070696106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 453
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b28cf4f29a0242a21178bf49a918a
+      internalID: -875044706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 453
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facfec6325c39e641baba064b5215aad
+      internalID: 1637389191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 453
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bbe0bbfcb78a044b525aaae0bf306a
+      internalID: 1256741633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 453
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab61f71c65c9a544bd1fe8b5cc99595
+      internalID: -881046560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 453
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a943235374f98ff4eb59d69a1cbb2ed8
+      internalID: -1825641566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 453
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d6a29f3083a1441b86ff90ffb65fd1
+      internalID: 1308910294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 418
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7e7f7596f64845b58af6eb172b288
+      internalID: -1284799932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd927ec77d644342b0dc48e5239ad50
+      internalID: 726958360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 418
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5870e32828822d4d90bfed227df999f
+      internalID: 1119066321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 418
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57399e5cfc3e2c149b28bfd60c4e7b07
+      internalID: 1471691731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 418
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51a8994158ab34a9fbb44a283100e5
+      internalID: 207364934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 418
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fafbaaf2589d147ba1bb7b2add8fed
+      internalID: 1200808347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_43
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 418
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf9d22341d99443ae7515c3de01492
+      internalID: -1945808141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 418
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fc7f3de0dd5e469426ae43da4135e
+      internalID: 1884155472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_45
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 429
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a7f728b7955745887425d1cdbd285
+      internalID: 1601729620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 384
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87bb59a09bfdb443b836896a68090e4
+      internalID: 475146570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 384
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad02784adbbe02040b4a7ac69571239a
+      internalID: 841736302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 384
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b5fcbca0c10349b2994de2d8ffa64
+      internalID: -414820267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_49
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 384
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b2cafbc7aa90d47aaba943de5edf56
+      internalID: 754282756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 340
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f266a579826e814d98618e81526ac14
+      internalID: -68126319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_51
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 340
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6519bc9169574faedbed1995eea04
+      internalID: 1500895162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 340
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493ff368b793d54b97141af776579cb
+      internalID: 1224401174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 340
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7eecf478581b42b9fe24586f080a2
+      internalID: -1405694719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 340
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320736bb8f08ca40b903d4dc108d865
+      internalID: 2077057195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 340
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35a71e4e8edc4499003db50102a33f
+      internalID: -1290910256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 340
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b24f976be8898144a78500f19b42b27
+      internalID: -408160167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b328e174d0c3ac45ac412778b29b99a
+      internalID: -644769146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 299
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da828f82a9236549925e977f9eb6769
+      internalID: -1343981207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 299
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bc822917232f54db74a93c07b724cd
+      internalID: -6148608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 299
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60461322f2934d1479e6cd8e69ebbd09
+      internalID: 1274284324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 299
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5439f20dfb69c419a614a69b84108f
+      internalID: -1673806063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 299
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d43e6d8f6a80b4c9cda09380d42be2
+      internalID: -574190652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 264
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd2334d1a6a2144698aaaf1a7110c32
+      internalID: 1722139857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 264
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6ec9e3344f794b8cd8c73f0ab9f2c
+      internalID: 671799923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 264
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf27d2316cb9934bb5ecaf6a2cbadb5
+      internalID: -855336429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 264
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891a15d7701ac945afe5275fcc83493
+      internalID: -814621817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289677d7e3c6f8a4b8dcf57f84db05d2
+      internalID: -548329573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_69
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f639dc93a57434987ccc15658ee968
+      internalID: -436159487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 227
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd639431102245747ae75fcc8f00792c
+      internalID: -266371887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 227
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2830ec849e59dc46afbd5ac01a993bd
+      internalID: -616255930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_72
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 227
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6dce9d542d2cc4c8e5f09c9e86963a
+      internalID: -1997794894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 227
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ff0ceb276206e449f56173bdf76d5b
+      internalID: 2000235984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 227
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7da670c44020b4693004589ae24c78
+      internalID: -1636143268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 227
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef71048e41769143adf10aa049a9ca3
+      internalID: -378239405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_76
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 227
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66cafbd92e2094894dcf7c35772d71
+      internalID: -692783619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 192
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043513ff34b8ea489a03c48fec0e0bf
+      internalID: 1793568440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 192
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8467d2d0269e06744bd20c2c51203c9a
+      internalID: 2004303723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_79
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54c72789b9b404ca5b5af6a92a0550
+      internalID: 715286392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_80
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4aa02fc3d127647a8c5d0a303b5d76
+      internalID: -187334421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 192
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e299efe0ac8447c4c843be3c2c0768e2
+      internalID: -1669152478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 11
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812290387496e264986e867b4dc286c7
+      internalID: 989887974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 187
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d4d87f4a153b4aaef8a49bab9f5ac
+      internalID: -1226321958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_84
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 187
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d852972e35caa949b2d7d924193b3a8
+      internalID: -887945380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f27338179758f846b3a4f6115131282
+      internalID: 1687487197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_86
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 187
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd0bc1e17e69f04aadc1f72c66bc2d7
+      internalID: 1065987031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_87
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 161
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c48361c28c6154a821fcfbee1c31d0
+      internalID: 1673735520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 161
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb8a4763a43844a9284c743beafa09
+      internalID: -424831889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 161
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74698859ff49024284d399be5871af2
+      internalID: 1593798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_90
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 161
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fad786232124343b65c151391083d6
+      internalID: 53998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 161
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93126d97f9ba2b479191e05b35c39a8
+      internalID: -877074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 118
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7827e491148ffa479a6ef98f00a0e9c
+      internalID: 145254499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_93
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 116
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0c67c06a0382543981c1fb9d599c8c
+      internalID: -1804795088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_94
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 113
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173f9bf3821d4d468f25137b9c9de27
+      internalID: -1098385374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 133
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e473b5a4c85e42b1977385180eea9
+      internalID: 477865181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_96
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 133
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5b4e3fcc499540b667853abe0cd00
+      internalID: 1432227066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 75
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df236b1aec4408449aea01da09fe1a1f
+      internalID: 909744138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_98
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43c0c277f514f4f9bd00ee902a8e96
+      internalID: 1426793137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dbae680a9500140a7b38f62fdf976b
+      internalID: -204806430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517a62def526854397caa446bf51fa3
+      internalID: -552942384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_101
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ffd811578a59246a9efee465b07f83
+      internalID: -589416886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_102
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72856122d187447accaaf48c967ea9
+      internalID: 193997864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_103
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903d5dc9c03b254b99e8e4e8627237e
+      internalID: -1728494374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_104
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b93010fef5436541aba8eb2a3bac8fa
+      internalID: -1411045575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d726ba2a6df28af499b84a79f66a8175
+      internalID: 130974845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-sit_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320af0502302f04cbd80167428a84c2
+      internalID: -1535667654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marco-pistol-sit_0: -60566296
+      marco-pistol-sit_1: -2055844827
+      marco-pistol-sit_10: -1783377330
+      marco-pistol-sit_100: -552942384
+      marco-pistol-sit_101: -589416886
+      marco-pistol-sit_102: 193997864
+      marco-pistol-sit_103: -1728494374
+      marco-pistol-sit_104: -1411045575
+      marco-pistol-sit_105: 130974845
+      marco-pistol-sit_106: -1535667654
+      marco-pistol-sit_107: 383216970
+      marco-pistol-sit_11: 539891657
+      marco-pistol-sit_12: -1176164874
+      marco-pistol-sit_13: -1672601151
+      marco-pistol-sit_14: -1630711217
+      marco-pistol-sit_15: 1270565549
+      marco-pistol-sit_16: -1452034371
+      marco-pistol-sit_17: -1806052868
+      marco-pistol-sit_18: 1894926604
+      marco-pistol-sit_19: 2083736518
+      marco-pistol-sit_2: 1732231053
+      marco-pistol-sit_20: 392278061
+      marco-pistol-sit_21: 2034268813
+      marco-pistol-sit_22: 55312984
+      marco-pistol-sit_23: -1519118257
+      marco-pistol-sit_24: -472408887
+      marco-pistol-sit_25: 1157469691
+      marco-pistol-sit_26: -1430638266
+      marco-pistol-sit_27: -612498579
+      marco-pistol-sit_28: 1367911879
+      marco-pistol-sit_29: -279084454
+      marco-pistol-sit_3: 493416099
+      marco-pistol-sit_30: 1070696106
+      marco-pistol-sit_31: -875044706
+      marco-pistol-sit_32: 1637389191
+      marco-pistol-sit_33: 1256741633
+      marco-pistol-sit_34: -881046560
+      marco-pistol-sit_35: -1825641566
+      marco-pistol-sit_36: 1308910294
+      marco-pistol-sit_37: -1284799932
+      marco-pistol-sit_38: 726958360
+      marco-pistol-sit_39: 1119066321
+      marco-pistol-sit_4: 2010698779
+      marco-pistol-sit_40: 1471691731
+      marco-pistol-sit_41: 207364934
+      marco-pistol-sit_42: 1200808347
+      marco-pistol-sit_43: -1945808141
+      marco-pistol-sit_44: 1884155472
+      marco-pistol-sit_45: 1601729620
+      marco-pistol-sit_46: 475146570
+      marco-pistol-sit_47: 841736302
+      marco-pistol-sit_48: -414820267
+      marco-pistol-sit_49: 754282756
+      marco-pistol-sit_5: 1665776036
+      marco-pistol-sit_50: -68126319
+      marco-pistol-sit_51: 1500895162
+      marco-pistol-sit_52: 1224401174
+      marco-pistol-sit_53: -1405694719
+      marco-pistol-sit_54: 2077057195
+      marco-pistol-sit_55: -2145891157
+      marco-pistol-sit_56: -1290910256
+      marco-pistol-sit_57: -408160167
+      marco-pistol-sit_58: -644769146
+      marco-pistol-sit_59: -1343981207
+      marco-pistol-sit_6: -284351350
+      marco-pistol-sit_60: -6148608
+      marco-pistol-sit_61: 1274284324
+      marco-pistol-sit_62: -1673806063
+      marco-pistol-sit_63: -574190652
+      marco-pistol-sit_64: 1722139857
+      marco-pistol-sit_65: 671799923
+      marco-pistol-sit_66: -855336429
+      marco-pistol-sit_67: -814621817
+      marco-pistol-sit_68: -548329573
+      marco-pistol-sit_69: -436159487
+      marco-pistol-sit_7: -1037183913
+      marco-pistol-sit_70: -266371887
+      marco-pistol-sit_71: -616255930
+      marco-pistol-sit_72: -1997794894
+      marco-pistol-sit_73: 2000235984
+      marco-pistol-sit_74: -1636143268
+      marco-pistol-sit_75: -378239405
+      marco-pistol-sit_76: -692783619
+      marco-pistol-sit_77: 1793568440
+      marco-pistol-sit_78: 2004303723
+      marco-pistol-sit_79: 715286392
+      marco-pistol-sit_8: -1010611923
+      marco-pistol-sit_80: -187334421
+      marco-pistol-sit_81: -1669152478
+      marco-pistol-sit_82: 989887974
+      marco-pistol-sit_83: -1226321958
+      marco-pistol-sit_84: -887945380
+      marco-pistol-sit_85: 1687487197
+      marco-pistol-sit_86: 1065987031
+      marco-pistol-sit_87: 1673735520
+      marco-pistol-sit_88: -424831889
+      marco-pistol-sit_89: 1593798217
+      marco-pistol-sit_9: -1973813097
+      marco-pistol-sit_90: 53998346
+      marco-pistol-sit_91: -877074151
+      marco-pistol-sit_92: 145254499
+      marco-pistol-sit_93: -1804795088
+      marco-pistol-sit_94: -1098385374
+      marco-pistol-sit_95: 477865181
+      marco-pistol-sit_96: 1432227066
+      marco-pistol-sit_97: 909744138
+      marco-pistol-sit_98: 1426793137
+      marco-pistol-sit_99: -204806430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

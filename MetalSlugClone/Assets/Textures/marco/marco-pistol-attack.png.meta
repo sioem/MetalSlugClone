@@ -1,0 +1,2595 @@
+fileFormatVersion: 2
+guid: 4225fdc65a9fad048bf7217a5037e91a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco-pistol-attack_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 728
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bfa6a99f0e8574093d0962767e70d9
+      internalID: -1237286520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 728
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa5c5441e9fad649a2f23869810adcb
+      internalID: 1268277034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 728
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e02fcdba88e7644926719567dcded9
+      internalID: 159306093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 741
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988619538bbcc0948b9456838b9c39b0
+      internalID: 110011173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 728
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7799b992c1fc04abf46e20bc85ddbd
+      internalID: -111118161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 728
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cc9179e02be414dae2edceb8be3e79
+      internalID: 274312446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 728
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef9a99ee85a6b4e990670fb88acc5d
+      internalID: -1339509977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 728
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf42b4c45f14494d90ecfcff32a132e
+      internalID: 855111036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 724
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826a7b9edabdf240a57c4bd7842ead1
+      internalID: 915925702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 722
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca831a526fe792409eeccdf02ee2a9b
+      internalID: -208023619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 724
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96344f6c9e31b7e479d20ba70afe1238
+      internalID: -1666718209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 683
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa0df064202c441941c87d4909a967
+      internalID: 2039729111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 683
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68e0ffff58ac34f9d799a6ba935715
+      internalID: 1983728307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 683
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9d3858368d6f48b3aa90fcfcb1782
+      internalID: 167619789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 696
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d55573137fab804095c12dc2427f396
+      internalID: 1314071251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 683
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20d38ce3a52d44e8d9b277a54e9436
+      internalID: -105313339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 683
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb779ab17fd0148833b154c6f0eff8
+      internalID: -1274891031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 683
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ab7898aaeee4a4d8de632d22fd606f
+      internalID: -281569766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 683
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39082b40f123a34458446c7a8c792e1b
+      internalID: 277422241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 679
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66706f0346f33de41bcf332b8c9edd08
+      internalID: 490641311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_20
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 677
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3823a94826b14094af672c511f934
+      internalID: -45273245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 679
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9848f46b841b84e4f821e14ecd87b590
+      internalID: -1474213950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 692
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec88dfd4854c4f4bbb090037f76e268
+      internalID: -7698275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 692
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5046cc53dd30989409324c8c858d4db1
+      internalID: -701292908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 692
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc27ad400db844499aeb8375c0715a
+      internalID: -230882314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 692
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee095b9fea4cb3a439dfc06860c94b98
+      internalID: -2096030263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_26
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 692
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff279d22006cb4bab8814aab87b0ae
+      internalID: -1495792534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_27
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 692
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5adf531476fb548837ae8c92e80ada
+      internalID: 1764852090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 631
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c09cd6d1fb1742ba6df931c30ac0c
+      internalID: 1284143402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 630
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180a87d018ca3e4bbbcbeced12d7bed
+      internalID: 1371996392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 634
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85281c66281ec745a936a79e087274f
+      internalID: -558043360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 639
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7f93faee2c1a42b1f800062d15078
+      internalID: -1373419238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 632
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2692b2491f84b4cb2e19beb3cb9522
+      internalID: -1584930142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 627
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878c2d723b4c5549b7e1235407bd20c
+      internalID: -573802972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 627
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab64d96df9ef843aade799717866d8
+      internalID: 529579314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 631
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db453140a259d8b45a29a216caf1825b
+      internalID: -712665434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_36
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 620
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc980bd30687944821e3de30391efa
+      internalID: 709770127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 630
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfaa8f9d82a564288ea48a1da008c1
+      internalID: -77681266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_38
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 628
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47799913e8ef59b4ca8c717ebcc805b7
+      internalID: 1780602813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 638
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16578082fd76e498f21f3f72f765a8
+      internalID: -81402723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 636
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a59fa97ee69b49b4869de5dff4207
+      internalID: -1660111706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 636
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b513242c41beb4b8bd09b1163b1baf
+      internalID: -532510538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_42
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 638
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a308928a8ca6e4fb9864ce5972e5cc
+      internalID: -252274704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_43
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 638
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89a8ae7161ae75468448152aab5a6b4
+      internalID: -268433245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_44
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 638
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27fb14adc0b605429af471ecfa64012
+      internalID: 252728577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_45
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 636
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e45a15528882364eaebff7ac3a115ff
+      internalID: -80693133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_46
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 635
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759b76cdeb51f447894d70aa46457c5
+      internalID: -306562647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 626
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca42e02ea7856944bddce04f87d9023
+      internalID: -292028648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 620
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be613465d9998439dcc39fd3e434a9
+      internalID: -819494916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 574
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40b27d3db321f14b984cd5fb7504b38
+      internalID: -504628219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 574
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0b8b651b1140645beca42507d79dc6
+      internalID: 1810326051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 574
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4adf3893291ad74899c9c95a6bb2a2a
+      internalID: -1284365832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 574
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376be4843f57fa45833a1364e8618e0
+      internalID: -1040325228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_53
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 574
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21cadab9c379ca4fbe9989d61e460e8
+      internalID: 544090592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 574
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4538f2eb0109eb4eaee1f94686951d3
+      internalID: 1719732487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_55
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 507
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c8e2eae2e047241b9374b453a2d2f3
+      internalID: 756254631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 507
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2c1baca03c754692655b3ddfd4f94
+      internalID: -2000972584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 504
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113d79f611a3674ea3d7cdaa4ffae63
+      internalID: 1964511408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 505
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cf47c8ecf25b45b2165b9563ee759
+      internalID: 1174157808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_59
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 508
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e4d81acf8c9f4a9629c01654a3785
+      internalID: 933247227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 508
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ed25465eb1c5342a0ddb1e6df25ecf
+      internalID: 1929268803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57d671bec7778448d37a58faac596f
+      internalID: 303827360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 458
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b163b6fa063ba4fb99a5dec57fe75c
+      internalID: 317124619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 456
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25adfd7a8a798e149b1d0679626f70c9
+      internalID: 1143845473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11f2ef8fec1bf941998de668ac8721b
+      internalID: -823545380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 460
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d757ebda6415428d64c77bfdd04f1
+      internalID: -443307399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db08ca35360954496e420bdb5e8779
+      internalID: -944331663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 394
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c73a834d4740d946a098e1fcff401ec
+      internalID: -525831462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 394
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f7c6eb4ea0a444a96f3aacc2666bd
+      internalID: 1410231022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 394
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07852022b24d80c4f99dedbab2b54d39
+      internalID: -1465886997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_70
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 394
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbacefc72e721468298a1179680008
+      internalID: -518018121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 394
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f36840c1f9ca54c806c84c281dbb41
+      internalID: 692056682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 394
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f0d6ba903466498421fc1116d193a
+      internalID: -1467204009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_73
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 394
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1fac74b06543749aca2d22f4e085a8
+      internalID: -1494761729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e1bf461b232a4b8dcdf94f670ade7
+      internalID: -1814875011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 349
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e62006fe7b50f4dae3c7308eb34e93
+      internalID: 752531311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_76
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 350
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ed271e5e0624408477fc315901be2
+      internalID: 480116791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_77
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9417bfd63b834c8c44bb15dba60c3
+      internalID: 626065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 352
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c664d19e876fcc4c844323dbd4c8d84
+      internalID: 1247004766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_79
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 340
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f680dfaf486ca1148ad79c1b338e8f00
+      internalID: -1952746108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 342
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ae98171410a64281293cc123f3f2c
+      internalID: 1288687773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 349
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7122be7a5b513b14eb82a4919af11420
+      internalID: -773938319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 356
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e84a768149bc40be92b1d540ea54d
+      internalID: -710104969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_83
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 354
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82795b90532b0e945948cc49aab68c43
+      internalID: -389424074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 299
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1186212515004cb075eb8ad8e9c0a
+      internalID: 779114270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 300
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9233bd825a839c47b3f9e80f90f313f
+      internalID: -2038293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_86
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 258
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e01c3b6ec66924fb8d7985b2a816ee
+      internalID: -2107792176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_87
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 258
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f161c8ede5b440b72924e07767206
+      internalID: 1334092606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_88
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 258
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5261286f7e742240801d4a78c4d1872
+      internalID: 1027702056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 258
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb8453c13c71e4f9e1c06502bdf228
+      internalID: 656323653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 198
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92a7a25c7bd4b4b89ef597d4821215
+      internalID: -1800763007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 149
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef636643b3f6ce446b8a928ccfcfb4b1
+      internalID: -460887617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 149
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687c8fbcb002df145a8a7a6b0dfcb78b
+      internalID: 2138740996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_93
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1c75342288a541aab899676642722
+      internalID: -1063263803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a8d3c73d4f0784185437168e602dd9
+      internalID: -473672519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_95
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 100
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21810eb7dec8a468714c0b8c23f9ea
+      internalID: -1945420021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_96
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 100
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19201f2e93020343b627dbaffe23a59
+      internalID: 1634847897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_97
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 113
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f43b0e77d3f554ab36cc115d759712
+      internalID: -1844343417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae4da6121cda574e9942c6778658deb
+      internalID: 1480380507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_99
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 29
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936bff372d097a045856b4800509d69e
+      internalID: 1990427814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6a73cfc30ded49a70669283ad36ad
+      internalID: -838581906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 70
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df383b0a7e7b8834397b06adf88ef092
+      internalID: 1901416382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151aeb4f8351264caeafcb6faf93b1a
+      internalID: 1564659072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_103
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540381f496e4def47b6e02b95ea1ec5b
+      internalID: 762041750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf169c8184b8648b8ce2afd52d58cb
+      internalID: -1312422254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_105
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea105825fd724b4fa3e490085ca86e6
+      internalID: -266251924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b0927dbba59f847945262a6a977c65
+      internalID: -933204488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102cba4704b19144917367a0a70cbfa
+      internalID: 1069274198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ffbc1fdab89e64d85eb2994f767b68
+      internalID: 562687316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_109
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 6
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335025259a8b90a4fbf8fed8bb714896
+      internalID: -710523778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-pistol-attack_110
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0789be501f8574884bb38ab8daa3b3
+      internalID: 666737302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marco-pistol-attack_0: -1237286520
+      marco-pistol-attack_1: 1268277034
+      marco-pistol-attack_10: -1666718209
+      marco-pistol-attack_100: -838581906
+      marco-pistol-attack_101: 1901416382
+      marco-pistol-attack_102: 1564659072
+      marco-pistol-attack_103: 762041750
+      marco-pistol-attack_104: -1312422254
+      marco-pistol-attack_105: -266251924
+      marco-pistol-attack_106: -933204488
+      marco-pistol-attack_107: 1069274198
+      marco-pistol-attack_108: 562687316
+      marco-pistol-attack_109: -710523778
+      marco-pistol-attack_11: 2039729111
+      marco-pistol-attack_110: 666737302
+      marco-pistol-attack_12: 1983728307
+      marco-pistol-attack_13: 167619789
+      marco-pistol-attack_14: 1314071251
+      marco-pistol-attack_15: -105313339
+      marco-pistol-attack_16: -1274891031
+      marco-pistol-attack_17: -281569766
+      marco-pistol-attack_18: 277422241
+      marco-pistol-attack_19: 490641311
+      marco-pistol-attack_2: 159306093
+      marco-pistol-attack_20: -45273245
+      marco-pistol-attack_21: -1474213950
+      marco-pistol-attack_22: -7698275
+      marco-pistol-attack_23: -701292908
+      marco-pistol-attack_24: -230882314
+      marco-pistol-attack_25: -2096030263
+      marco-pistol-attack_26: -1495792534
+      marco-pistol-attack_27: 1764852090
+      marco-pistol-attack_28: 1284143402
+      marco-pistol-attack_29: 1371996392
+      marco-pistol-attack_3: 110011173
+      marco-pistol-attack_30: -558043360
+      marco-pistol-attack_31: -1373419238
+      marco-pistol-attack_32: -1584930142
+      marco-pistol-attack_33: -573802972
+      marco-pistol-attack_34: 529579314
+      marco-pistol-attack_35: -712665434
+      marco-pistol-attack_36: 709770127
+      marco-pistol-attack_37: -77681266
+      marco-pistol-attack_38: 1780602813
+      marco-pistol-attack_39: -81402723
+      marco-pistol-attack_4: -111118161
+      marco-pistol-attack_40: -1660111706
+      marco-pistol-attack_41: -532510538
+      marco-pistol-attack_42: -252274704
+      marco-pistol-attack_43: -268433245
+      marco-pistol-attack_44: 252728577
+      marco-pistol-attack_45: -80693133
+      marco-pistol-attack_46: -306562647
+      marco-pistol-attack_47: -292028648
+      marco-pistol-attack_48: -819494916
+      marco-pistol-attack_49: -504628219
+      marco-pistol-attack_5: 274312446
+      marco-pistol-attack_50: 1810326051
+      marco-pistol-attack_51: -1284365832
+      marco-pistol-attack_52: -1040325228
+      marco-pistol-attack_53: 544090592
+      marco-pistol-attack_54: 1719732487
+      marco-pistol-attack_55: 756254631
+      marco-pistol-attack_56: -2000972584
+      marco-pistol-attack_57: 1964511408
+      marco-pistol-attack_58: 1174157808
+      marco-pistol-attack_59: 933247227
+      marco-pistol-attack_6: -1339509977
+      marco-pistol-attack_60: 1929268803
+      marco-pistol-attack_61: 303827360
+      marco-pistol-attack_62: 317124619
+      marco-pistol-attack_63: 1143845473
+      marco-pistol-attack_64: -823545380
+      marco-pistol-attack_65: -443307399
+      marco-pistol-attack_66: -944331663
+      marco-pistol-attack_67: -525831462
+      marco-pistol-attack_68: 1410231022
+      marco-pistol-attack_69: -1465886997
+      marco-pistol-attack_7: 855111036
+      marco-pistol-attack_70: -518018121
+      marco-pistol-attack_71: 692056682
+      marco-pistol-attack_72: -1467204009
+      marco-pistol-attack_73: -1494761729
+      marco-pistol-attack_74: -1814875011
+      marco-pistol-attack_75: 752531311
+      marco-pistol-attack_76: 480116791
+      marco-pistol-attack_77: 626065680
+      marco-pistol-attack_78: 1247004766
+      marco-pistol-attack_79: -1952746108
+      marco-pistol-attack_8: 915925702
+      marco-pistol-attack_80: 1288687773
+      marco-pistol-attack_81: -773938319
+      marco-pistol-attack_82: -710104969
+      marco-pistol-attack_83: -389424074
+      marco-pistol-attack_84: 779114270
+      marco-pistol-attack_85: -2038293822
+      marco-pistol-attack_86: -2107792176
+      marco-pistol-attack_87: 1334092606
+      marco-pistol-attack_88: 1027702056
+      marco-pistol-attack_89: 656323653
+      marco-pistol-attack_9: -208023619
+      marco-pistol-attack_90: -1800763007
+      marco-pistol-attack_91: -460887617
+      marco-pistol-attack_92: 2138740996
+      marco-pistol-attack_93: -1063263803
+      marco-pistol-attack_94: -473672519
+      marco-pistol-attack_95: -1945420021
+      marco-pistol-attack_96: 1634847897
+      marco-pistol-attack_97: -1844343417
+      marco-pistol-attack_98: 1480380507
+      marco-pistol-attack_99: 1990427814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

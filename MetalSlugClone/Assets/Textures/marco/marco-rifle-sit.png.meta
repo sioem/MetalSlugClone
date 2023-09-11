@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 0a1a168c4c7adf94b9969cba246ac310
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco-rifle-sit_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 569
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed00cdb66c585ad4e98182bd6c6312f0
+      internalID: 23846720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 569
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d46a42edae4d44aceca6e90fbb073
+      internalID: 183349559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 569
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6521f27233e44f86ee792ba9b9f9b
+      internalID: -1463736085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 569
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a9d72b6015af243838dfa85c0929c9
+      internalID: 653048554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 534
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957435b7b66ab5d409de42056dee98d2
+      internalID: 707754904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 534
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69814b77337e0774ba06952243a20f8d
+      internalID: 1382798158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 534
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d928a18d93e3724a97d499f140a5903
+      internalID: -301929709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 534
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eee537172ed2e4c8b5cf2e80b1a690
+      internalID: 399951274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 534
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdf122a56f9a1544a9c6745bb26f629
+      internalID: 374677806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 534
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42262f853ff926245a5269ccd4e09ed5
+      internalID: 208121099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 534
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47c48e0e8bf9d4389242dfac49bfdd
+      internalID: -1400267140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 497
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea0d0240ddcf3f4983e4407c4d73e95
+      internalID: -1992547101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 457
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e816c87549ab30548bb31cfef4ca4866
+      internalID: 1400287957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 457
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63c5db0a2fa2474c9ce00b7dd946586
+      internalID: -287540956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 457
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3abb5511cec742a8e3e0cb54a102e
+      internalID: -1238655214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 457
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea353290c227c3042ac8cdd62ebc6163
+      internalID: -299349454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 414
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054fa8aada035194a9d491b315eb8390
+      internalID: -281617034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed96804cb1dd224dafd03de95617bd8
+      internalID: -1672879321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 414
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5e09e328ecd524f8325bab8209d04c
+      internalID: 163748221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 414
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1472082480df469b744a3308ebec1
+      internalID: 1130504452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 414
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672504d7cc31d34a9a5e6c516be5aa7
+      internalID: -1334763840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_23
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 414
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37351e43fa6e27a4889a983e7662e01d
+      internalID: 927653047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 414
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be78dbf2be4cc4b82377d953b5da71
+      internalID: 278336618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 414
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82891ee50e8979548b4d633250f0fec8
+      internalID: -1416147531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 414
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad3b8d187b033c438fb9900580cda34
+      internalID: -1368419701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 414
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d43b344cc23f4189f60038f197d09
+      internalID: 765049192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 368
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb6188d2acb15c4ca7c554273912d29
+      internalID: 1496844527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9232b0d4211ca4c975afff8a455383
+      internalID: -361360972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f9b0182ba1dd449ce499fc475bd82
+      internalID: 35880710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 368
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602540cd404ee854ba3c85f988d4d265
+      internalID: -1040685731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 368
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778fc992bca9004aa2951b340cb0fa4
+      internalID: -605816315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 368
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2695c880ebba84f9387fb8e3ff8fdc
+      internalID: 195614008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 329
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672923c8c4a89054e8ce480a6482c6aa
+      internalID: 354973426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 329
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e749f82391c3a45b1b673d9df02ea8
+      internalID: 864006941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 329
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115872c490c86bb46978bc48bc4febd7
+      internalID: -435530911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ef7fe2c173434799eaf7ada41774d
+      internalID: -1121574592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 287
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1916cc2af379704e84e84b95e1e1738
+      internalID: -245142662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 287
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa24cbe3dd2774482c4251d21a7e9e
+      internalID: -1444383183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_40
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 287
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d61232f83088bb408aa236e234490ea
+      internalID: 2060947063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 287
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0163eeb8fab74439992e2765cff41a
+      internalID: -809418500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_42
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 287
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9443c536b62d4b84a8b452a9a5b6d904
+      internalID: 951999366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_43
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 249
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c58904e2a59047bd27c8718f7fcf8
+      internalID: -354267519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 249
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eced1921ed93b47a078f6a95b95bc1
+      internalID: -351850678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 249
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae216ec3c778c41a1e8758189b117a
+      internalID: -413247211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_46
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 249
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa02fece6a43ba4499de00ac4c633a4
+      internalID: 204156567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901d5601a77abd45a19f91adcc3e0a9
+      internalID: -1391185965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 199
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0ebc3108899047bb421ca013289e7
+      internalID: 1107126953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6421ac2e776fdf40bd64f369be2a642
+      internalID: 97807564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 199
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddf7cb5ad7f4f4b9e48bcc6d9b4f7f
+      internalID: -1974095060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_51
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 199
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3166578165ef04280fdb023e62b6a7
+      internalID: -753864796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 199
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c28f1b7d9ced4c9e4eadcca926bf5
+      internalID: -1963219355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09bcca63216de4fb2249b41ad85d7a
+      internalID: -1224430011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_54
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5018b3f1909ef4db1bc64b89b8ddfb
+      internalID: -1418032673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_55
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 150
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea370bfd72c194478a020e3621694d8
+      internalID: 651793047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 150
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae68d3e9b4328a48adf520c26d045e1
+      internalID: -83627953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 150
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c44bfc31bd319148ac698fa2e3fad0b
+      internalID: -1865541862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_58
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 150
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195fd91e09ac2b429ad415404d1e772
+      internalID: -1119318761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 150
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23564d15de56ac41988648a836779f2
+      internalID: -598718757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_60
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 150
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58c629f1ffc2240bba8de57a79ad36
+      internalID: 1456031703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_61
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 162
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c24601485f93e4f88e6af4f27777a2
+      internalID: 136023148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10407bfe5ff104fa61fd702d418ffc
+      internalID: 147459825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f88099b1a9414288bf91851236778
+      internalID: 674312305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 101
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fcc84a61554da459cd27c07b29a1a7
+      internalID: 510903254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 101
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae840fc19a2c3614aae19a7a5038d5b4
+      internalID: 672151076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 51
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f38026b7846b499f742e881e9bf13
+      internalID: 868453973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc71c0865d224f449bdc1fa316e88c2
+      internalID: -1714871961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 51
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616319a3735b9b4eb17d39da6f0107a
+      internalID: 1351306104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2da2633b98914c408048110c50d287a
+      internalID: 378705149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 51
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac74f2a73c97684ab1454149c7342a4
+      internalID: 876616833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_72
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 51
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7738944a945b551449324e86c1f754a5
+      internalID: -197935382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae21009be888a3a469cd9f0b99d655cb
+      internalID: -1275543429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0766b25cae820c4f8fa4e38ca69cbe1
+      internalID: 44352041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d9aed5d98a175498c8ab9cd518f6da
+      internalID: 1957437258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26bc225ca770534e9c5e431b1669183
+      internalID: -1531876994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fd4befb3177994e8b91570f4deb245
+      internalID: 751616430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 6
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8084c8d8ebc744814798a490bff2e
+      internalID: 11755678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-sit_79
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeedf82b95ba96f46ab5ea7012416668
+      internalID: -1536049884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marco-rifle-sit_0: 23846720
+      marco-rifle-sit_1: 183349559
+      marco-rifle-sit_10: -1400267140
+      marco-rifle-sit_11: -1992547101
+      marco-rifle-sit_12: 1400287957
+      marco-rifle-sit_13: -287540956
+      marco-rifle-sit_14: 1095427564
+      marco-rifle-sit_15: -1238655214
+      marco-rifle-sit_16: -299349454
+      marco-rifle-sit_17: -1359130579
+      marco-rifle-sit_18: -281617034
+      marco-rifle-sit_19: -1672879321
+      marco-rifle-sit_2: -1463736085
+      marco-rifle-sit_20: 163748221
+      marco-rifle-sit_21: 1130504452
+      marco-rifle-sit_22: -1334763840
+      marco-rifle-sit_23: 927653047
+      marco-rifle-sit_24: 278336618
+      marco-rifle-sit_25: -1416147531
+      marco-rifle-sit_26: -1368419701
+      marco-rifle-sit_27: 765049192
+      marco-rifle-sit_28: 1496844527
+      marco-rifle-sit_29: -361360972
+      marco-rifle-sit_3: 653048554
+      marco-rifle-sit_30: 35880710
+      marco-rifle-sit_31: -1040685731
+      marco-rifle-sit_32: -605816315
+      marco-rifle-sit_33: 195614008
+      marco-rifle-sit_34: 354973426
+      marco-rifle-sit_35: 864006941
+      marco-rifle-sit_36: -435530911
+      marco-rifle-sit_37: -1121574592
+      marco-rifle-sit_38: -245142662
+      marco-rifle-sit_39: -1444383183
+      marco-rifle-sit_4: 707754904
+      marco-rifle-sit_40: 2060947063
+      marco-rifle-sit_41: -809418500
+      marco-rifle-sit_42: 951999366
+      marco-rifle-sit_43: -354267519
+      marco-rifle-sit_44: -351850678
+      marco-rifle-sit_45: -413247211
+      marco-rifle-sit_46: 204156567
+      marco-rifle-sit_47: -1391185965
+      marco-rifle-sit_48: 1107126953
+      marco-rifle-sit_49: 97807564
+      marco-rifle-sit_5: 1382798158
+      marco-rifle-sit_50: -1974095060
+      marco-rifle-sit_51: -753864796
+      marco-rifle-sit_52: -1963219355
+      marco-rifle-sit_53: -1224430011
+      marco-rifle-sit_54: -1418032673
+      marco-rifle-sit_55: 651793047
+      marco-rifle-sit_56: -83627953
+      marco-rifle-sit_57: -1865541862
+      marco-rifle-sit_58: -1119318761
+      marco-rifle-sit_59: -598718757
+      marco-rifle-sit_6: -301929709
+      marco-rifle-sit_60: 1456031703
+      marco-rifle-sit_61: 136023148
+      marco-rifle-sit_62: 147459825
+      marco-rifle-sit_63: 674312305
+      marco-rifle-sit_64: 510903254
+      marco-rifle-sit_65: 672151076
+      marco-rifle-sit_66: 868453973
+      marco-rifle-sit_67: -1714871961
+      marco-rifle-sit_68: 1351306104
+      marco-rifle-sit_69: 378705149
+      marco-rifle-sit_7: 399951274
+      marco-rifle-sit_70: 876616833
+      marco-rifle-sit_71: 1104244680
+      marco-rifle-sit_72: -197935382
+      marco-rifle-sit_73: -1275543429
+      marco-rifle-sit_74: 44352041
+      marco-rifle-sit_75: 1957437258
+      marco-rifle-sit_76: -1531876994
+      marco-rifle-sit_77: 751616430
+      marco-rifle-sit_78: 11755678
+      marco-rifle-sit_79: -1536049884
+      marco-rifle-sit_8: 374677806
+      marco-rifle-sit_9: 208121099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

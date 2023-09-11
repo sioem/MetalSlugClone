@@ -1,0 +1,1453 @@
+fileFormatVersion: 2
+guid: 411aab8e2e1316b4aaa6ad869eac05e2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 407
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93639f3a312b24142aab8bd0f1919208
+      internalID: 1765173171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 407
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c073871129984eb1f620a71a28bd7
+      internalID: 1931890831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 409
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1080e718e75d804a808887a3fe85bf7
+      internalID: -1769965205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 410
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e09747bb810344ba83f00204041919
+      internalID: -1711781056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 410
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e3d5e9f3d8144580c7e34db043135
+      internalID: -649889109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 409
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a7c8138a9c4e4287ceaf3c29b9b25
+      internalID: 1241901185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 369
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d917baffb6a542affeac4fcb7cd89
+      internalID: 2001285134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 368
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d58d1a5fa3004581a9cb2779a769f
+      internalID: -752738981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 368
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3560a66180763f44844b66325b76124
+      internalID: -770044827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 368
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87389eff63fd20e4385336d0d3b0ce31
+      internalID: -87897748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 369
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09346903f95b0d44d9afb0d58a815573
+      internalID: 272627630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 369
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b74e6b459c774fbf0468975b0ed18
+      internalID: -1021831083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 329
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d70c1253dd886844b2ccec47e043617
+      internalID: 1434789637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 328
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b776a7186481c443a791748f1ef67b4
+      internalID: -912026481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 328
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4169b3b4f9189418dfaffa26380774
+      internalID: 1065319859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 329
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ccfae15d5e2f74781995a436b31701
+      internalID: 1222603028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b7a837711cf9b4f88301954ffaca28
+      internalID: 204642827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 288
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316c88be5d84b5429d7bb51662a4aa3
+      internalID: -147667514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 288
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa278050142c3f49ba407713c2d75c0
+      internalID: 1503224937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_21
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 288
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60e115a3c44db4fa8019c75e16e42e
+      internalID: -1756171392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee3ebca4697d884eb85973277379164
+      internalID: 1064041540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 288
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdda7563bbda21344b3b078f6e7a6cfa
+      internalID: -1153706454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 288
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b8a9f2e040a24e9c700f16684ea4c
+      internalID: -528175196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 288
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebcf8cd8a7d5e94289a7997a6534a32
+      internalID: 263367312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 288
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293b0abbbdcc4841a0b7f8541e43b16
+      internalID: -2043864410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 288
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b81b316fdef6844ba432b478a8e45be
+      internalID: 862273574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 250
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09856dd757a8ba748a524df049bd50fd
+      internalID: -1468434143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 245
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7d753376813843bde27311983fe92
+      internalID: -779915424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 245
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb0cf026d504f341a4e10f68cb97771
+      internalID: 1505324208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_31
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 244
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c546ef594969f242a145c6289077c93
+      internalID: 901305358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 245
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b620ea87fba9e47968fd8a238a810a
+      internalID: -7859727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 249
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a911cf1d07bad24ca88b0917b3e7e26
+      internalID: -761964638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 205
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777bc2585cd425c42a76a934a68f283a
+      internalID: 1232146222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 204
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854fcdfd392e774dbb3622c75c4c813
+      internalID: -1317750055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 204
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b26209f0f04348a40ad0e366dfa34
+      internalID: -314974629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b83a2f022119a458e2bd868629b084
+      internalID: -852794454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 161
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216007ca4186fbb4eb1114051fd41ca3
+      internalID: 890908297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_39
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 162
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa183224eba84e94caf6acb9c48cd460
+      internalID: -1429985396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 163
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f698c8f9746cf46a3241c639d2efc8
+      internalID: -349126218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573423d364b76c94e9af669ce23483af
+      internalID: 236580735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 161
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f454d1682a434694466db6fb7c676
+      internalID: 742869946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3b73a499511d49a2fd0b482c17054
+      internalID: 485887782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 121
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0598a9c4435ca2f40b9366c1e335d8ee
+      internalID: 57427498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056637e7f125d814cbbbd5210c3728f8
+      internalID: 1411644595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 120
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c530c77f32d14f488ad86a345b7e702
+      internalID: 848103694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 121
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3c154a08877ce44964c195d6bcd780
+      internalID: -1444635991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 121
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136500a8d19c86b4f9f5e2b52421069f
+      internalID: -872837839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 60
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c351d317558497f4fbcaa5b782e07928
+      internalID: -2089457062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 65
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854c5963e0c803f4c810a878c6b353a7
+      internalID: -1932472154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ba20a857727f41a064281551ba931
+      internalID: -1547728808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 61
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d81f5bbc0fb24d814596c83b903f5
+      internalID: -1014145300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 65
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73679746c53270a40aec984c2500e81f
+      internalID: 1000344157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 65
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c350a45d02f858a44a6cb4f01a244a0b
+      internalID: 233727001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_55
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff1a888a60e6d40ae9b15f698857a0
+      internalID: 1341879289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc935ad644aa0e4985033c356964426
+      internalID: 811134177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da180c8431a19d43940de84661b6f24
+      internalID: 731970540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125cbac56a875345806411cc69d23aa
+      internalID: -1830237026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea4b9352205d524c9cb39b54e724e40
+      internalID: -804526279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marco-rifle-jump,attack_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf027999b6e514c4cb8368b2e99766d8
+      internalID: -496542714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      marco-rifle-jump,attack_0: 1765173171
+      marco-rifle-jump,attack_1: 1931890831
+      marco-rifle-jump,attack_10: 272627630
+      marco-rifle-jump,attack_11: -1021831083
+      marco-rifle-jump,attack_12: 1434789637
+      marco-rifle-jump,attack_13: -912026481
+      marco-rifle-jump,attack_14: -1144041494
+      marco-rifle-jump,attack_15: 1065319859
+      marco-rifle-jump,attack_16: 1222603028
+      marco-rifle-jump,attack_17: 330891821
+      marco-rifle-jump,attack_18: 204642827
+      marco-rifle-jump,attack_19: -147667514
+      marco-rifle-jump,attack_2: -1769965205
+      marco-rifle-jump,attack_20: 1503224937
+      marco-rifle-jump,attack_21: -1756171392
+      marco-rifle-jump,attack_22: 1064041540
+      marco-rifle-jump,attack_23: -1153706454
+      marco-rifle-jump,attack_24: -528175196
+      marco-rifle-jump,attack_25: 263367312
+      marco-rifle-jump,attack_26: -2043864410
+      marco-rifle-jump,attack_27: 862273574
+      marco-rifle-jump,attack_28: -1468434143
+      marco-rifle-jump,attack_29: -779915424
+      marco-rifle-jump,attack_3: -1711781056
+      marco-rifle-jump,attack_30: 1505324208
+      marco-rifle-jump,attack_31: 901305358
+      marco-rifle-jump,attack_32: -7859727
+      marco-rifle-jump,attack_33: -761964638
+      marco-rifle-jump,attack_34: 1232146222
+      marco-rifle-jump,attack_35: -1317750055
+      marco-rifle-jump,attack_36: -314974629
+      marco-rifle-jump,attack_37: -852794454
+      marco-rifle-jump,attack_38: 890908297
+      marco-rifle-jump,attack_39: -1429985396
+      marco-rifle-jump,attack_4: -649889109
+      marco-rifle-jump,attack_40: -349126218
+      marco-rifle-jump,attack_41: 236580735
+      marco-rifle-jump,attack_42: 742869946
+      marco-rifle-jump,attack_43: 485887782
+      marco-rifle-jump,attack_44: 57427498
+      marco-rifle-jump,attack_45: 1411644595
+      marco-rifle-jump,attack_46: 848103694
+      marco-rifle-jump,attack_47: -1444635991
+      marco-rifle-jump,attack_48: -872837839
+      marco-rifle-jump,attack_49: -2089457062
+      marco-rifle-jump,attack_5: 1241901185
+      marco-rifle-jump,attack_50: -1932472154
+      marco-rifle-jump,attack_51: -1547728808
+      marco-rifle-jump,attack_52: -1014145300
+      marco-rifle-jump,attack_53: 1000344157
+      marco-rifle-jump,attack_54: 233727001
+      marco-rifle-jump,attack_55: 1341879289
+      marco-rifle-jump,attack_56: 811134177
+      marco-rifle-jump,attack_57: 731970540
+      marco-rifle-jump,attack_58: -1830237026
+      marco-rifle-jump,attack_59: -804526279
+      marco-rifle-jump,attack_6: 2001285134
+      marco-rifle-jump,attack_60: -496542714
+      marco-rifle-jump,attack_7: -752738981
+      marco-rifle-jump,attack_8: -770044827
+      marco-rifle-jump,attack_9: -87897748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
